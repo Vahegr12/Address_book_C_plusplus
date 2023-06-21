@@ -15,4 +15,6 @@ Navigate in the programm using nums (1-5), forexample in main menu you will see
         4. Search contact by name, surname, email, or phone number
         5. exit
         Command ID:
-if you want to "Add a new contact" press `1` and `enter`  (`5` is always 'exit'/'cencel')
+if you want to "Add a new contact" press `1` and `enter`  (`5` is always 'exit'/'cencel').
+
+Thank you for your support.
